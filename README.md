@@ -58,7 +58,7 @@ Bathurst, NSW 2795, Australia.
 email: mmoni@csu.edu.au </p>
 
 ## Authors:
-<h3>Debashis *</h3>
+<h3>Debashis Gupta *</h3>
 
 <p>Department of Computer Science
 
